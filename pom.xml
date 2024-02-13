@@ -20,6 +20,10 @@
     </properties>
     <modules>
         <module>mall-product</module>
+        <module>mall-user</module>
+        <module>mall-order</module>
+        <module>mall-ware</module>
+        <module>mall-coupon</module>
     </modules>
     <build>
         <plugins>
